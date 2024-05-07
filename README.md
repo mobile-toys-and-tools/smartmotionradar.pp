@@ -30,7 +30,7 @@ No. Smart Motion Radar does not collect precise information about the location o
  No. Even aggregated, anonymized data is not periodically transmitted to external services.
 
 # Changes
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Policy Document Number” at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this number and replace any prior Privacy Policies. You can check the history of this policy by clicking here.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Policy Document Number” at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this number and replace any prior Privacy Policies. You can check the history of this policy by clicking [here](https://drive.google.com/drive/folders/1Ho0rbfdQuLfj0tIYxRpu5OyM71tuZG05?usp=drive_link).
 
 # Contact us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at mobile.toys.tools@gmail.com.
